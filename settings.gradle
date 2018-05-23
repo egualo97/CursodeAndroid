@@ -1,0 +1,1 @@
+include ':layout', ':kotlin', ':convertidosmxnusd', ':intents', ':fragments', ':fragmentexcercise', ':contador', ':navigationview', ':persistenciadedatos', ':recyclerviews', ':retrofit'
